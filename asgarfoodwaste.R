@@ -188,4 +188,3 @@ dbDisconnect(con)
 
 cat("\n--- FOODWASTE PIPELINE KØRT FÆRDIGT ---\n")
 cat("Timestamp:", run_timestamp, "\n")
-api.sallinggroup.com

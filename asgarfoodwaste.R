@@ -159,8 +159,8 @@ variable <- offers_all %>%
 
 con <- dbConnect(
   MariaDB(),
-  user = "root",
-  password = "",
+  user = "ruser",
+  password = "Ucg95fpr!",
   dbname = "foodwaste",
   host = "localhost"
 )
